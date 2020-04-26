@@ -1,4 +1,4 @@
-def Person
+class Person
   def talk
     "Hello World!"
   end
